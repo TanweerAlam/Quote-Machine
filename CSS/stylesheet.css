@@ -1,0 +1,45 @@
+.heading-text{
+	font-family: 'Tangerine', cursive;
+	font-size: 76px;
+	font-weight: bold;
+	text-align: center;
+}
+.sub-heading-text{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.quote-box{
+	border-radius: 10px;
+	text-align: center;
+	background: #fff;
+}
+
+#quote{
+	font-size: 30px;
+	display: inline;
+}
+#author{
+	font-size: 20px;
+	float: right;
+	margin-top: 0;
+}
+.custom-btn{
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border-width: 5px;
+	font-size: 22px;
+	text-decoration: none;
+	display: inline-block;
+	transition: .3s;
+}
+.btn-blue{
+	color: #55acee;
+	border: 2px #55acee solid;
+	background: #fff;
+}
+.btn-blue:hover{
+	color: #fff;
+	background: #55acee;
+}
